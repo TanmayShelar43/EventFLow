@@ -18,11 +18,11 @@ EventFlow is a full-stack web application designed to make discovering events an
 (screenshots/book_seat)
 
 ### Authentication
-![Login and Signup](screenshots/login)
-(screenshots/signup)
+![Login](screenshots/login)
+![signup](screenshots/signup)
 
 ### My Bookings
-![My Bookings](screenshots/my-booking)
+![My Bookings](screenshots/my_booking)
 
 ## Key Features
 
